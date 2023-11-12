@@ -1,0 +1,1 @@
+/root/projects/5.Using_Structs_to_Structure_Related_Data/example_program_using_structs/target/debug/example_program_using_structs: /root/projects/5.Using_Structs_to_Structure_Related_Data/example_program_using_structs/src/main.rs
