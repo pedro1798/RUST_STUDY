@@ -1,0 +1,1 @@
+/root/projects/5.Using_Structs_to_Structure_Related_Data/defining_and_instantiating_structs/target/debug/defining_and_instantiating_structs: /root/projects/5.Using_Structs_to_Structure_Related_Data/defining_and_instantiating_structs/src/main.rs
