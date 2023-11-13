@@ -38,6 +38,10 @@ fn main() {
     // 널일 수 있는 값을 사용하기 위해서는 명시적으로 값의 타입을 Option<T>로 변환해야 한다.
     // 그 다음 값을 사용할 때 명시적으로 널인 경우를 처리해야 한다.
     // Option<T>에서 값을 가져오는 법은 직접 찾아보기.
+    
+    let x: Option<i32> = None;
+    // assert_eq! 매크로는 두 값이 동일한지 체크한다. 동일하지 않다면 패닉에 빠진다.
+    assert_eq!(x.is_some()), false);  // is_some: Returns ture if the option is a Some value.
 }
 
 enum Option<T> {
