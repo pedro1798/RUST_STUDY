@@ -1,0 +1,1 @@
+/root/projects/7.Packages_Crates_Modules/restaurant/target/debug/restaurant: /root/projects/7.Packages_Crates_Modules/restaurant/src/lib.rs /root/projects/7.Packages_Crates_Modules/restaurant/src/main.rs
