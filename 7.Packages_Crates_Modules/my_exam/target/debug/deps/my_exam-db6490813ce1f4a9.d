@@ -1,0 +1,7 @@
+/root/projects/7.Packages_Crates_Modules/my_exam/target/debug/deps/my_exam-db6490813ce1f4a9.rmeta: src/lib.rs src/garden.rs src/garden/vegetables.rs
+
+/root/projects/7.Packages_Crates_Modules/my_exam/target/debug/deps/my_exam-db6490813ce1f4a9.d: src/lib.rs src/garden.rs src/garden/vegetables.rs
+
+src/lib.rs:
+src/garden.rs:
+src/garden/vegetables.rs:

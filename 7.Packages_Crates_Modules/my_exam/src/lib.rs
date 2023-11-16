@@ -3,3 +3,5 @@ pub mod hello {
         println!("hello_from_lib!");
     }
 }
+
+pub mod garden;
