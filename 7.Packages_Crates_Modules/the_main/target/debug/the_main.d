@@ -1,1 +1,1 @@
-/root/projects/7.Packages_Crates_Modules/the_main/target/debug/the_main: /root/projects/7.Packages_Crates_Modules/the_main/src/main.rs /root/projects/7.Packages_Crates_Modules/the_main/the_lib/src/lib.rs
+/root/projects/7.Packages_Crates_Modules/the_main/target/debug/the_main: /root/projects/7.Packages_Crates_Modules/the_main/src/main.rs /root/projects/7.Packages_Crates_Modules/the_main/the_lib/src/lib.rs /root/projects/7.Packages_Crates_Modules/the_main/the_lib/src/sibling1.rs /root/projects/7.Packages_Crates_Modules/the_main/the_lib/src/sibling2.rs
