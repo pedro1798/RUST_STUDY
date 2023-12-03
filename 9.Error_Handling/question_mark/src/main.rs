@@ -55,7 +55,7 @@ struct OurError {
     message: String,
 }
 
-// Implementing the From trait for io::Error to OurError
+// Implementing the From trait for from io::Error to OurError
 impl From<io::Error> for OurError {
     fn from(error: io::Error) -> Self {
         // Extract information from io::Error or 
